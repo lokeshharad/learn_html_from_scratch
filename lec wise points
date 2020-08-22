@@ -1,0 +1,11 @@
+lec 3
+headers : h1 to h6
+
+div
+section
+p : paragraph
+i : italic
+em : element used to make text in italic.
+strong : element makes text bolder or strogner.
+b : element to make text bolder.
+br : break : go to next line
